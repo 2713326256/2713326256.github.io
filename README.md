@@ -1,2 +1,2 @@
 # 2713326256.github.io
-# 1122
+print（"hello python"）
