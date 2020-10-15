@@ -13,3 +13,4 @@ plt.title("指数信号 ")
 plt.xlabel('t')
 plt.ylabel('x1(t)')
 plt.show()
+
